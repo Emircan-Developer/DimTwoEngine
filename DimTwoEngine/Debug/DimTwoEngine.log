@@ -1,0 +1,3 @@
+﻿  Game.cpp
+E:\GameEngine\DimTwoEngine\DimTwoEngine\Game.h(19,7): error C2365: 'Game::isRunning': yeniden tanımlama; önceki tanım 'üye işlev' idi
+E:\GameEngine\DimTwoEngine\DimTwoEngine\Game.h(15): message : 'Game::isRunning' bildirimine bakın
